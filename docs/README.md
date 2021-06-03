@@ -24,12 +24,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-<body>
-
-<IFRAME SRC="http://ultrasound.infinityfreeapp.com/" width=500 height=1000</IFRAME>
-  
-<body/>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
